@@ -27,6 +27,7 @@
 ---
 
 ## 📫 How to reach me / ติดต่อได้ที่...
+- 🌐 [facebook.com/Sketchup & Civil Engineer](https://www.facebook.com/sketchupCivil/) 
 - 🌐 [facebook.com/buildsmart888](https://www.facebook.com/buildsmart888)  
 - 📧 buildsmart888@gmail.com  
 
@@ -56,6 +57,8 @@ I'm building open engineering tools to **help Thai engineers save time**, **lear
 
 ## 🌐 Community / ชุมชน:
 - 👷‍♂️ Founder of **BuildSmart Learning Community**  
-- 👨‍💻 Admin: [กลุ่ม FreeCAD สำหรับงานวิศวกรรมโครงสร้าง](https://www.facebook.com/groups/460333962582886)
+- 👨‍💻 : [กลุ่ม FreeCAD สำหรับงานวิศวกรรมโครงสร้าง](https://www.facebook.com/groups/460333962582886)
+- 👨‍💻 Admin: [กลุ่ม OPENSOURCE THAI ENGINEERING](https://www.facebook.com/groups/2464261027282162)
+- 👨‍💻 Admin: [กลุ่ม BuildSmart Learning Community](https://www.facebook.com/groups/375383005359343)
 
 ---
