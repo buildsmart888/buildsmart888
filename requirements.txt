@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+openpyxl
+matplotlib
+customtkinter
+pytest
+black
+flake8
